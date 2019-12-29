@@ -1,0 +1,8 @@
+{
+  "name": "babel-beep-bop",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:cdaringe/babel-beep-bop.git",
+  "author": "cdaringe <cdaringe@gmail.com>",
+  "license": "MIT"
+}
